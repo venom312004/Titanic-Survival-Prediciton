@@ -68,10 +68,10 @@ Based on features like age, gender, ticket class, fare, etc.
 - Logistic Regression performed as a strong baseline model.  
 - Decision Tree and SVM showed competitive performance.  
 - Precision and recall revealed trade-offs between false positives and false negatives.  
-- No single model dominates — performance depends on the metric priority.  
+- No single model dominates — performance depends on the metric priority.
+
 
 ---
-
 ## 🧠 Key Insights
 
 - Gender and passenger class are strong indicators of survival.  
