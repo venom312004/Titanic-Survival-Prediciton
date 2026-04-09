@@ -1,0 +1,9 @@
+# Load  Titanic Data from seaborn website
+
+import seaborn as sns
+
+# Load dataset
+df = sns.load_dataset('titanic')
+
+# Show first 5 rows
+df.head()
